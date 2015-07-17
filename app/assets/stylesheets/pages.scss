@@ -162,3 +162,23 @@ footer {
 p.copyright {
     margin: 15px 0 0;
 }
+
+div.circular {
+  width: 40em;
+  height: auto;
+  margin: 0 0 1.875em 0;
+  padding: 0 3.125em;
+}
+
+img.avatar {
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  border-radius: 50%;
+  border: 0.313em solid #d4d4d4;
+}
+
+img.headshot {
+    width: 40vw;
+    height: auto;
+    margin-top: 15px;
+}
